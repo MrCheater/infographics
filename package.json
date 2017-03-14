@@ -1,0 +1,26 @@
+{
+  "name": "infographics",
+  "version": "0.0.1",
+  "description": "Infographics elements",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCheater/infographics.git"
+  },
+  "keywords": [
+    "react",
+    "charts",
+    "infographics",
+    "svg",
+    "lazy-load"
+  ],
+  "author": "Mr.Cheater (Zhukov Anton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrCheater/infographics/issues"
+  },
+  "homepage": "https://github.com/MrCheater/infographics#readme"
+}
